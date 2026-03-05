@@ -19,6 +19,23 @@ export class AuthAPI {
     return response.json();
   }
 
+  static async login(email: string, password: string) {
+    const response = await fetch(`${API_BASE_URL}/auth/login`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ email, password }),
+    });
+
+    if (!response.ok) {
+      const error = await response.json().catch(() => null);
+      throw new Error(error?.message || "Login failed");
+    }
+
+    return response.json();
+  }
+
   static async registerWithGoogle(googleData: {
     id: string;
     email: string;

@@ -25,13 +25,6 @@ export function RegisterScreenWithGoogle({
   const [errors, setErrors] = useState<{ [key: string]: string }>({});
   const router = useRouter();
 
-  // Configure OAuth discovery
-  const discovery = AuthSession.useAuthRequest({
-    clientId: GOOGLE_CLIENT_ID,
-    scopes: ["profile", "email"],
-    permissions: ["openid", "profile", "email"],
-  });
-
   const validateForm = () => {
     const newErrors: { [key: string]: string } = {};
 
@@ -147,12 +140,6 @@ export function RegisterScreenWithGoogle({
             <Text style={styles.buttonText}>Sign Up</Text>
           )}
         </TouchableOpacity>
-
-        <View style={styles.googleComingSoon}>
-          <Text style={styles.googleComingSoonText}>
-            Google Sign-up coming soon!
-          </Text>
-        </View>
       </View>
 
       <View style={styles.footer}>
@@ -242,53 +229,6 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontWeight: "700",
     letterSpacing: 0.3,
-  },
-  divider: {
-    flexDirection: "row",
-    alignItems: "center",
-    marginVertical: 16,
-  },
-  dividerLine: {
-    flex: 1,
-    height: 1,
-    backgroundColor: "#e0e0e0",
-  },
-  dividerText: {
-    marginHorizontal: 12,
-    color: "#999",
-    fontSize: 12,
-    fontWeight: "500",
-  },
-  buttonGoogle: {
-    borderWidth: 1,
-    borderColor: "#e0e0e0",
-    paddingVertical: 14,
-    borderRadius: 8,
-    alignItems: "center",
-    backgroundColor: "#fafafa",
-    flexDirection: "row",
-    justifyContent: "center",
-    gap: 8,
-  },
-  googleIcon: {
-    fontSize: 18,
-  },
-  buttonGoogleText: {
-    color: "#1a1a1a",
-    fontSize: 15,
-    fontWeight: "600",
-  },
-  googleComingSoon: {
-    marginTop: 16,
-    padding: 12,
-    backgroundColor: "#f3f4f6",
-    borderRadius: 8,
-    alignItems: "center",
-  },
-  googleComingSoonText: {
-    color: "#666",
-    fontSize: 13,
-    fontWeight: "500",
   },
   footer: {
     flexDirection: "row",

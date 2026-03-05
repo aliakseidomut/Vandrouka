@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import { useState } from "react";
 import { useRouter } from "expo-router";
-import { SafeAreaView } from "react-native-safe-area-context";
+import { AuthAPI } from "@/api/auth";
 
 interface LoginScreenProps {
   onSuccess?: () => void;
@@ -46,12 +46,14 @@ export function LoginScreen({ onSuccess }: LoginScreenProps) {
 
     setLoading(true);
     try {
-      // TODO: Implement login API call
-      Alert.alert("Info", "Login functionality coming soon!");
+      await AuthAPI.login(email, password);
       onSuccess?.();
       router.push("/(tabs)");
     } catch (error) {
-      Alert.alert("Error", "Failed to login. Please try again.");
+      Alert.alert(
+        "Error",
+        error instanceof Error ? error.message : "Failed to login. Please try again.",
+      );
       console.error(error);
     } finally {
       setLoading(false);
