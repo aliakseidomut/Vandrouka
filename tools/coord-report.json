@@ -1,0 +1,1230 @@
+[
+  {
+    "cityId": "minsk",
+    "attractionId": "independence-avenue",
+    "attractionName": "Проспект Независимости",
+    "stored": {
+      "lat": 53.9023,
+      "lng": 27.5619
+    },
+    "best": {
+      "lat": 53.9094403,
+      "lng": 27.5763091,
+      "display": "проспект Независимости, Комаровка, Минск, 220034, Беларусь"
+    },
+    "distance_m": 1233,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "trinity-suburb",
+    "attractionName": "Троицкое предместье",
+    "stored": {
+      "lat": 53.9075,
+      "lng": 27.5547
+    },
+    "best": {
+      "lat": 53.9077929,
+      "lng": 27.5552353,
+      "display": "«Троицкое предместье», Троицкая набережная, Троицкое предместье, Центральный район, Минск, 220030, Беларусь"
+    },
+    "distance_m": 48,
+    "status": "ok"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "national-library",
+    "attractionName": "Национальная библиотека",
+    "stored": {
+      "lat": 53.9326,
+      "lng": 27.6499
+    },
+    "best": {
+      "lat": 53.9327606,
+      "lng": 27.6457046,
+      "display": "Национальная библиотека, проспект Независимости, Восток, Первомайский район, Минск, 220114, Беларусь"
+    },
+    "distance_m": 275,
+    "status": "ok"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "victory-square",
+    "attractionName": "Площадь Победы",
+    "stored": {
+      "lat": 53.9069,
+      "lng": 27.5781
+    },
+    "best": {
+      "lat": 53.9085027,
+      "lng": 27.5747912,
+      "display": "площадь Победы, Комаровка, Минск, Беларусь"
+    },
+    "distance_m": 281,
+    "status": "ok"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "upper-town",
+    "attractionName": "Верхний город",
+    "stored": {
+      "lat": 53.905,
+      "lng": 27.5562
+    },
+    "best": {
+      "lat": 53.9043447,
+      "lng": 27.5563774,
+      "display": "Верхний город, Центральный район, Минск, Беларусь"
+    },
+    "distance_m": 74,
+    "status": "ok"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "island-of-tears",
+    "attractionName": "Остров слез",
+    "stored": {
+      "lat": 53.9074,
+      "lng": 27.5497
+    },
+    "best": {
+      "lat": 53.9096403,
+      "lng": 27.5545133,
+      "display": "Остров Мужества и Скорби, Центральный район, Минск, Беларусь"
+    },
+    "distance_m": 402,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "gorky-park",
+    "attractionName": "Парк Горького",
+    "stored": {
+      "lat": 53.9089,
+      "lng": 27.5697
+    },
+    "best": {
+      "lat": 53.9033497,
+      "lng": 27.5731441,
+      "display": "Парк Горького, проспект Независимости, Комаровка, Минск, 220029, Беларусь"
+    },
+    "distance_m": 657,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "minsk",
+    "attractionId": "great-patriotic-war-museum",
+    "attractionName": "Музей истории Великой Отечественной войны",
+    "stored": {
+      "lat": 53.9183,
+      "lng": 27.539
+    },
+    "best": {
+      "lat": 53.9151509,
+      "lng": 27.5379557,
+      "display": "Музей истории Великой Отечественной войны, проспект Победителей, Людамонт, Центральный район, Минск, 722197, Беларусь"
+    },
+    "distance_m": 357,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "brest",
+    "attractionId": "brest-fortress",
+    "attractionName": "Брестская крепость",
+    "stored": {
+      "lat": 52.082,
+      "lng": 23.658
+    },
+    "best": {
+      "lat": 52.0826568,
+      "lng": 23.6554461,
+      "display": "Брестская крепость, Ленинский район, Брест, Брестская область, 224018, Беларусь"
+    },
+    "distance_m": 189,
+    "status": "ok"
+  },
+  {
+    "cityId": "brest",
+    "attractionId": "sovetskaya-street",
+    "attractionName": "Улица Советская",
+    "stored": {
+      "lat": 52.0976,
+      "lng": 23.6997
+    },
+    "best": {
+      "lat": 52.0943441,
+      "lng": 23.6916193,
+      "display": "Советская улица, Итальянский квартал, Центр, Ленинский район, Брест, Брестская область, 224016, Беларусь"
+    },
+    "distance_m": 660,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "brest",
+    "attractionId": "railway-museum",
+    "attractionName": "Музей железнодорожной техники",
+    "stored": {
+      "lat": 52.0901,
+      "lng": 23.671
+    },
+    "best": {
+      "lat": 52.0855053,
+      "lng": 23.6729159,
+      "display": "Музей железнодорожной техники, проспект Машерова, Центр, Ленинский район, Брест, Брестская область, 224035, Беларусь"
+    },
+    "distance_m": 527,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "brest",
+    "attractionId": "winter-garden",
+    "attractionName": "Зимний сад",
+    "stored": {
+      "lat": 52.1235,
+      "lng": 23.6857
+    },
+    "best": {
+      "lat": 52.0981117,
+      "lng": 23.6880778,
+      "display": "Зимний сад, 28/1, улица Мицкевича, Итальянский квартал, Центр, Ленинский район, Брест, Брестская область, 224016, Беларусь"
+    },
+    "distance_m": 2828,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "brest",
+    "attractionId": "millennium-monument",
+    "attractionName": "Памятник тысячелетия Бреста",
+    "stored": {
+      "lat": 52.0991,
+      "lng": 23.696
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "brest",
+    "attractionId": "belovezhskaya-pushcha",
+    "attractionName": "Беловежская пуща",
+    "stored": {
+      "lat": 52.69,
+      "lng": 23.88
+    },
+    "best": {
+      "lat": 52.5612659,
+      "lng": 23.9875615,
+      "display": "Беловежская пуща, Пружанский район, Брестская область, Беларусь"
+    },
+    "distance_m": 16050,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "old-castle",
+    "attractionName": "Старый замок",
+    "stored": {
+      "lat": 53.6802,
+      "lng": 23.8253
+    },
+    "best": {
+      "lat": 53.6773049,
+      "lng": 23.8229859,
+      "display": "Старый замок, Правонабережная улица, Коложа, Переселка, Ленинский район, Гродно, Гродненская область, 230011, Беларусь"
+    },
+    "distance_m": 356,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "new-castle",
+    "attractionName": "Новый замок",
+    "stored": {
+      "lat": 53.681,
+      "lng": 23.827
+    },
+    "best": {
+      "lat": 53.6763021,
+      "lng": 23.8245505,
+      "display": "Новый замок, 20, Замковая улица, Переселка, Ленинский район, Гродно, Гродненская область, 240025, Беларусь"
+    },
+    "distance_m": 547,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "kalozha",
+    "attractionName": "Коложская церковь",
+    "stored": {
+      "lat": 53.6809,
+      "lng": 23.8175
+    },
+    "best": {
+      "lat": 53.6784264,
+      "lng": 23.8186308,
+      "display": "Свято-Борисо-Глебская Коложская церковь, 6, улица Коложа, Коложа, Переселка, Ленинский район, Гродно, Гродненская область, 230029, Беларусь"
+    },
+    "distance_m": 285,
+    "status": "ok"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "farny-church",
+    "attractionName": "Фарный костел",
+    "stored": {
+      "lat": 53.6798,
+      "lng": 23.8301
+    },
+    "best": {
+      "lat": 53.6783181,
+      "lng": 23.8315818,
+      "display": "Кафедральный собор Святого Франциска Ксаверия, 4, Советская площадь, Ленинский район, Гродно, Гродненская область, 240025, Беларусь"
+    },
+    "distance_m": 192,
+    "status": "ok"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "sovetskaya-square",
+    "attractionName": "Советская площадь",
+    "stored": {
+      "lat": 53.6802,
+      "lng": 23.8298
+    },
+    "best": {
+      "lat": 53.6791687,
+      "lng": 23.8289737,
+      "display": "Областное объединение профсоюзов, Октябрьская улица, Переселка, Ленинский район, Гродно, Гродненская область, 240025, Беларусь"
+    },
+    "distance_m": 127,
+    "status": "ok"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "pharmacy-museum",
+    "attractionName": "Аптека-музей",
+    "stored": {
+      "lat": 53.681,
+      "lng": 23.8315
+    },
+    "best": {
+      "lat": 53.6784838,
+      "lng": 23.8311286,
+      "display": "Аптека-музей, 4, Советская площадь, Переселка, Ленинский район, Гродно, Гродненская область, 240025, Беларусь"
+    },
+    "distance_m": 281,
+    "status": "ok"
+  },
+  {
+    "cityId": "grodno",
+    "attractionId": "zoo",
+    "attractionName": "Гродненский зоопарк",
+    "stored": {
+      "lat": 53.6724,
+      "lng": 23.8473
+    },
+    "best": {
+      "lat": 53.6891644,
+      "lng": 23.8486588,
+      "display": "Гродненский зоопарк, 11, улица Тимирязева, Старый Новый свет, Ленинский район, Гродно, Гродненская область, 230004, Беларусь"
+    },
+    "distance_m": 1866,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "vitebsk",
+    "attractionId": "chagall-house",
+    "attractionName": "Дом-музей Марка Шагала",
+    "stored": {
+      "lat": 55.1962,
+      "lng": 30.2008
+    },
+    "best": {
+      "lat": 55.2003477,
+      "lng": 30.190624,
+      "display": "Дом-музей Марка Шагала, 11, Покровская улица, Задвинье, Железнодорожный район, Витебск, Витебская область, 210024, Беларусь"
+    },
+    "distance_m": 794,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "vitebsk",
+    "attractionId": "summer-amphitheatre",
+    "attractionName": "Летний амфитеатр",
+    "stored": {
+      "lat": 55.1894,
+      "lng": 30.2009
+    },
+    "best": {
+      "lat": 55.191532,
+      "lng": 30.2063615,
+      "display": "Летний амфитеатр, улица Ленина, Исторический центр города, Октябрьский район, Витебск, Витебская область, 210005, Беларусь"
+    },
+    "distance_m": 420,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "vitebsk",
+    "attractionId": "assumption-cathedral",
+    "attractionName": "Успенский собор",
+    "stored": {
+      "lat": 55.1949,
+      "lng": 30.205
+    },
+    "best": {
+      "lat": 55.1959674,
+      "lng": 30.2027217,
+      "display": "Свято-Успенский кафедральный собор, улица Комиссара Крылова, парк Фрунзе, Песковатик, Октябрьский район, Витебск, Витебская область, 210026, Беларусь"
+    },
+    "distance_m": 187,
+    "status": "ok"
+  },
+  {
+    "cityId": "vitebsk",
+    "attractionId": "city-hall",
+    "attractionName": "Витебская ратуша",
+    "stored": {
+      "lat": 55.1929,
+      "lng": 30.2024
+    },
+    "best": {
+      "lat": 55.1954761,
+      "lng": 30.2059715,
+      "display": "Витебская Ратуша, 36, улица Ленина, парк Фрунзе, Песковатик, Октябрьский район, Витебск, Витебская область, 210026, Беларусь"
+    },
+    "distance_m": 365,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "vitebsk",
+    "attractionId": "kz-palace",
+    "attractionName": "Губернаторский дворец",
+    "stored": {
+      "lat": 55.1958,
+      "lng": 30.2061
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "vitebsk",
+    "attractionId": "victory-square-vitebsk",
+    "attractionName": "Площадь Победы",
+    "stored": {
+      "lat": 55.186,
+      "lng": 30.1947
+    },
+    "best": {
+      "lat": 55.1822706,
+      "lng": 30.2028327,
+      "display": "Площадь Победы, проспект Черняховского, Первомайский район, Витебск, Витебская область, 210015, Беларусь"
+    },
+    "distance_m": 662,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "gomel",
+    "attractionId": "rumyantsev-palace",
+    "attractionName": "Дворец Румянцевых и Паскевичей",
+    "stored": {
+      "lat": 52.4248,
+      "lng": 31.0146
+    },
+    "best": {
+      "lat": 52.422281,
+      "lng": 31.0169086,
+      "display": "Дворец Румянцевых и Паскевичей, 4, площадь Ленина, Центральный район, Гомель, Гомельская область, 246048, Беларусь"
+    },
+    "distance_m": 321,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "gomel",
+    "attractionId": "gomel-park",
+    "attractionName": "Гомельский парк",
+    "stored": {
+      "lat": 52.4259,
+      "lng": 31.0117
+    },
+    "best": {
+      "lat": 52.4206213,
+      "lng": 31.0107329,
+      "display": "КУП по оказанию услуг «Гомельский парк», 21, Пролетарская улица, Центральный район, Гомель, Гомельская область, 246050, Беларусь"
+    },
+    "distance_m": 591,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "gomel",
+    "attractionId": "peter-paul-cathedral",
+    "attractionName": "Петропавловский собор",
+    "stored": {
+      "lat": 52.4253,
+      "lng": 31.0162
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "gomel",
+    "attractionId": "observation-tower",
+    "attractionName": "Башня обозрения",
+    "stored": {
+      "lat": 52.424,
+      "lng": 31.0143
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "gomel",
+    "attractionId": "sozh-embankment",
+    "attractionName": "Набережная Сожа",
+    "stored": {
+      "lat": 52.4273,
+      "lng": 31.021
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "gomel",
+    "attractionId": "vetka-museum",
+    "attractionName": "Музей ветковской иконы",
+    "stored": {
+      "lat": 52.429,
+      "lng": 31.014
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mogilev",
+    "attractionId": "mogilev-city-hall",
+    "attractionName": "Могилевская ратуша",
+    "stored": {
+      "lat": 53.905,
+      "lng": 30.3306
+    },
+    "best": {
+      "lat": 53.8945683,
+      "lng": 30.331953,
+      "display": "Могилёвская ратуша, 1А, Ленинская улица, Старый город, Завалье, Ленинский район, Могилёв, Могилёвская область, 212030, Беларусь"
+    },
+    "distance_m": 1163,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mogilev",
+    "attractionId": "leninskaya-street",
+    "attractionName": "Улица Ленинская",
+    "stored": {
+      "lat": 53.9044,
+      "lng": 30.3327
+    },
+    "best": {
+      "lat": 53.9091568,
+      "lng": 30.3459212,
+      "display": "улица Ленинская, Ленинская улица, Ледково, Юбилейный, Ленинский район, Могилёв, Могилёвская область, 212005, Беларусь"
+    },
+    "distance_m": 1015,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mogilev",
+    "attractionId": "st-nicholas-monastery",
+    "attractionName": "Свято-Никольский монастырь",
+    "stored": {
+      "lat": 53.8927,
+      "lng": 30.3293
+    },
+    "best": {
+      "lat": 53.893837,
+      "lng": 30.3457629,
+      "display": "Свято-Никольский женский монастырь, 1-й переулок Воли, Мікольскі пасад, Покровский посад, Ленинский район, Могилёв, Могилёвская область, 212030, Беларусь"
+    },
+    "distance_m": 1086,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mogilev",
+    "attractionId": "star-square",
+    "attractionName": "Площадь Звезд",
+    "stored": {
+      "lat": 53.9047,
+      "lng": 30.3354
+    },
+    "best": {
+      "lat": 53.9022971,
+      "lng": 30.3407486,
+      "display": "площадь Звёзд, Шклоўскі пасад, Юбилейный, Ленинский район, Могилёв, Могилёвская область, Беларусь"
+    },
+    "distance_m": 441,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mogilev",
+    "attractionId": "buinichi-field",
+    "attractionName": "Буйничское поле",
+    "stored": {
+      "lat": 53.853,
+      "lng": 30.2906
+    },
+    "best": {
+      "lat": 53.8602905,
+      "lng": 30.254113,
+      "display": "Буйничское поле, Н11007, Буйничи-2, Буйничи, Буйничский сельский Совет, Могилёвский район, Могилёвская область, 213134, Беларусь"
+    },
+    "distance_m": 2527,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mogilev",
+    "attractionId": "drama-theatre",
+    "attractionName": "Драматический театр",
+    "stored": {
+      "lat": 53.9024,
+      "lng": 30.3373
+    },
+    "best": {
+      "lat": 53.8974211,
+      "lng": 30.3333646,
+      "display": "Могилёвский областной драматический театр, 7, Первомайская улица, Старый город, Завалье, Ленинский район, Могилёв, Могилёвская область, 212030, Беларусь"
+    },
+    "distance_m": 611,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "polotsk",
+    "attractionId": "sophia-cathedral",
+    "attractionName": "Софийский собор",
+    "stored": {
+      "lat": 55.4847,
+      "lng": 28.7575
+    },
+    "best": {
+      "lat": 55.4862762,
+      "lng": 28.7585874,
+      "display": "Софийский Собор, 1, Замковая улица, Верхний замок, Заполотье, Полоцк, Полоцкий район, Витебская область, 211413, Беларусь"
+    },
+    "distance_m": 188,
+    "status": "ok"
+  },
+  {
+    "cityId": "polotsk",
+    "attractionId": "saviour-euphrosyne-monastery",
+    "attractionName": "Спасо-Евфросиниевский монастырь",
+    "stored": {
+      "lat": 55.5044,
+      "lng": 28.772
+    },
+    "best": {
+      "lat": 55.5025926,
+      "lng": 28.7730922,
+      "display": "Спасо-Евфросиниевский монастырь, улица Космонавтов, Спасская Слобода, Полоцк, Полоцкий район, Витебская область, 211404, Беларусь"
+    },
+    "distance_m": 212,
+    "status": "ok"
+  },
+  {
+    "cityId": "polotsk",
+    "attractionId": "geographical-center",
+    "attractionName": "Географический центр Европы",
+    "stored": {
+      "lat": 55.4856,
+      "lng": 28.7714
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "polotsk",
+    "attractionId": "polotsk-museum",
+    "attractionName": "Краеведческий музей",
+    "stored": {
+      "lat": 55.4855,
+      "lng": 28.777
+    },
+    "best": {
+      "lat": 55.4851264,
+      "lng": 28.7627791,
+      "display": "Краеведческий музей, 11, Нижне-Покровская улица, Вялікі Пасад, Центр, Полоцк, Полоцкий район, Витебская область, 211400, Беларусь"
+    },
+    "distance_m": 897,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "polotsk",
+    "attractionId": "letter-u-monument",
+    "attractionName": "Памятник букве Ў",
+    "stored": {
+      "lat": 55.4862,
+      "lng": 28.772
+    },
+    "best": {
+      "lat": 55.485112,
+      "lng": 28.7706612,
+      "display": "Памятник букве «Ў», проспект Франциска Скорины, Вялікі Пасад, Центр, Полоцк, Полоцкий район, Витебская область, 211400, Беларусь"
+    },
+    "distance_m": 147,
+    "status": "ok"
+  },
+  {
+    "cityId": "nesvizh",
+    "attractionId": "nesvizh-castle",
+    "attractionName": "Несвижский замок",
+    "stored": {
+      "lat": 53.2225,
+      "lng": 26.6896
+    },
+    "best": {
+      "lat": 53.2227898,
+      "lng": 26.6918112,
+      "display": "Несвижский замок, Замковый мост, Несвиж, Несвижский район, Минская область, 220603, Беларусь"
+    },
+    "distance_m": 151,
+    "status": "ok"
+  },
+  {
+    "cityId": "nesvizh",
+    "attractionId": "corpus-christi-church",
+    "attractionName": "Костел Божьего Тела",
+    "stored": {
+      "lat": 53.2222,
+      "lng": 26.6766
+    },
+    "best": {
+      "lat": 53.2206161,
+      "lng": 26.683779,
+      "display": "Костёл Божьего Тела (фарный), 5, улица Адама Мицкевича, Несвиж, Несвижский район, Минская область, 222603, Беларусь"
+    },
+    "distance_m": 509,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "nesvizh",
+    "attractionId": "nesvizh-town-hall",
+    "attractionName": "Несвижская ратуша",
+    "stored": {
+      "lat": 53.2228,
+      "lng": 26.6745
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "nesvizh",
+    "attractionId": "slutsk-gate",
+    "attractionName": "Слуцкая брама",
+    "stored": {
+      "lat": 53.2196,
+      "lng": 26.6829
+    },
+    "best": {
+      "lat": 53.2180034,
+      "lng": 26.6855193,
+      "display": "Слуцкая брама, Р91, Несвиж, Несвижский район, Минская область, 222603, Беларусь"
+    },
+    "distance_m": 249,
+    "status": "ok"
+  },
+  {
+    "cityId": "nesvizh",
+    "attractionId": "castle-park",
+    "attractionName": "Замковый парк",
+    "stored": {
+      "lat": 53.2238,
+      "lng": 26.6912
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mir",
+    "attractionId": "mir-castle",
+    "attractionName": "Мирский замок",
+    "stored": {
+      "lat": 53.4515,
+      "lng": 26.4731
+    },
+    "best": {
+      "lat": 53.4511969,
+      "lng": 26.4732817,
+      "display": "Мирский Замок, 2, Красноармейская улица, Мир, Мирский сельский Совет, Кореличский район, Гродненская область, 231444, Беларусь"
+    },
+    "distance_m": 36,
+    "status": "ok"
+  },
+  {
+    "cityId": "mir",
+    "attractionId": "st-nicholas-church-mir",
+    "attractionName": "Костел Святого Николая",
+    "stored": {
+      "lat": 53.4519,
+      "lng": 26.4694
+    },
+    "best": {
+      "lat": 53.4527219,
+      "lng": 26.4653757,
+      "display": "Костёл Святого Николая, 11, Красноармейская улица, Мир, Мирский сельский Совет, Кореличский район, Гродненская область, 231444, Беларусь"
+    },
+    "distance_m": 282,
+    "status": "ok"
+  },
+  {
+    "cityId": "mir",
+    "attractionId": "trinity-church-mir",
+    "attractionName": "Свято-Троицкая церковь",
+    "stored": {
+      "lat": 53.454,
+      "lng": 26.47
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mir",
+    "attractionId": "mir-square",
+    "attractionName": "Рыночная площадь",
+    "stored": {
+      "lat": 53.4524,
+      "lng": 26.471
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mir",
+    "attractionId": "castle-pond",
+    "attractionName": "Замковый пруд",
+    "stored": {
+      "lat": 53.4509,
+      "lng": 26.4752
+    },
+    "best": {
+      "lat": 53.4500394,
+      "lng": 26.4752483,
+      "display": "Замковый пруд, Мир, Мирский сельский Совет, Кореличский район, Гродненская область, Беларусь"
+    },
+    "distance_m": 96,
+    "status": "ok"
+  },
+  {
+    "cityId": "pinsk",
+    "attractionId": "franciscan-church",
+    "attractionName": "Костел Успения Девы Марии",
+    "stored": {
+      "lat": 52.1188,
+      "lng": 26.0939
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "pinsk",
+    "attractionId": "jesuit-collegium",
+    "attractionName": "Коллегиум иезуитов",
+    "stored": {
+      "lat": 52.1199,
+      "lng": 26.0972
+    },
+    "best": {
+      "lat": 52.1110271,
+      "lng": 26.104472,
+      "display": "Коллегиум иезуитов, 22, площадь Ленина, Старый город, Центральный, Пинск, Брестская область, 225716, Беларусь"
+    },
+    "distance_m": 1105,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "pinsk",
+    "attractionId": "pina-embankment",
+    "attractionName": "Набережная Пины",
+    "stored": {
+      "lat": 52.117,
+      "lng": 26.096
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "pinsk",
+    "attractionId": "butrimovich-palace",
+    "attractionName": "Дворец Бутримовича",
+    "stored": {
+      "lat": 52.1196,
+      "lng": 26.0944
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "pinsk",
+    "attractionId": "varvarinskaya-church",
+    "attractionName": "Варваринская церковь",
+    "stored": {
+      "lat": 52.1217,
+      "lng": 26.0996
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "lida",
+    "attractionId": "lida-castle",
+    "attractionName": "Лидский замок",
+    "stored": {
+      "lat": 53.892,
+      "lng": 25.2954
+    },
+    "best": {
+      "lat": 53.8871579,
+      "lng": 25.3034829,
+      "display": "Лидский замок, 1, Замковая улица, Лида, Лидский район, Гродненская область, 231136, Беларусь"
+    },
+    "distance_m": 755,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "lida",
+    "attractionId": "exaltation-church",
+    "attractionName": "Костел Воздвижения Святого Креста",
+    "stored": {
+      "lat": 53.8902,
+      "lng": 25.2977
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "lida",
+    "attractionId": "st-michael-cathedral",
+    "attractionName": "Собор Святого Михаила",
+    "stored": {
+      "lat": 53.8907,
+      "lng": 25.2996
+    },
+    "best": {
+      "lat": 53.893787,
+      "lng": 25.3031015,
+      "display": "Кафедральный собор святого Архангела Михаила, 20, Советская улица, Лида, Лидский район, Гродненская область, 231291, Беларусь"
+    },
+    "distance_m": 413,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "lida",
+    "attractionId": "lida-brewery",
+    "attractionName": "Лидский бровар",
+    "stored": {
+      "lat": 53.8835,
+      "lng": 25.3041
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "lida",
+    "attractionId": "lida-center",
+    "attractionName": "Исторический центр",
+    "stored": {
+      "lat": 53.8895,
+      "lng": 25.2997
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "novogrudok",
+    "attractionId": "novogrudok-castle",
+    "attractionName": "Руины Новогрудского замка",
+    "stored": {
+      "lat": 53.5996,
+      "lng": 25.8245
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "novogrudok",
+    "attractionId": "mickiewicz-museum",
+    "attractionName": "Дом-музей Адама Мицкевича",
+    "stored": {
+      "lat": 53.5973,
+      "lng": 25.8269
+    },
+    "best": {
+      "lat": 53.5980749,
+      "lng": 25.8278294,
+      "display": "Дом-музей Адама Мицкевича, 1, улица Ленина, Фортунка, Новогрудок, Новогрудский район, Гродненская область, 231400, Беларусь"
+    },
+    "distance_m": 106,
+    "status": "ok"
+  },
+  {
+    "cityId": "novogrudok",
+    "attractionId": "farny-church-novogrudok",
+    "attractionName": "Фарный костел",
+    "stored": {
+      "lat": 53.5985,
+      "lng": 25.8254
+    },
+    "best": {
+      "lat": 53.6013406,
+      "lng": 25.8300257,
+      "display": "Фарный костёл Преображения Господнего, 17, улица 1 Мая, Пересека, Новогрудок, Новогрудский район, Гродненская область, 231400, Беларусь"
+    },
+    "distance_m": 439,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "novogrudok",
+    "attractionId": "boris-gleb-church",
+    "attractionName": "Борисоглебская церковь",
+    "stored": {
+      "lat": 53.6029,
+      "lng": 25.8253
+    },
+    "best": {
+      "lat": 53.6001687,
+      "lng": 25.8239774,
+      "display": "Борисоглебская церковь, 10, Почтовая улица, Фортунка, Новогрудок, Новогрудский район, Гродненская область, 231400, Беларусь"
+    },
+    "distance_m": 316,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "novogrudok",
+    "attractionId": "mindaugas-mountain",
+    "attractionName": "Гора Миндовга",
+    "stored": {
+      "lat": 53.6011,
+      "lng": 25.8221
+    },
+    "best": {
+      "lat": 53.5998344,
+      "lng": 25.8346763,
+      "display": "Гора Миндовга, Минская улица, Липники, Новогрудок, Новогрудский район, Гродненская область, 231400, Беларусь"
+    },
+    "distance_m": 842,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "bobruisk",
+    "attractionId": "bobruisk-fortress",
+    "attractionName": "Бобруйская крепость",
+    "stored": {
+      "lat": 53.1338,
+      "lng": 29.2348
+    },
+    "best": {
+      "lat": 53.1369826,
+      "lng": 29.2440038,
+      "display": "Бобруйская крепость, улица Декабристов, Ленинский район, Бобруйск, Могилёвская область, 213827, Беларусь"
+    },
+    "distance_m": 709,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "bobruisk",
+    "attractionId": "bobruisk-theatre",
+    "attractionName": "Драматический театр",
+    "stored": {
+      "lat": 53.1463,
+      "lng": 29.2306
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "bobruisk",
+    "attractionId": "st-nicholas-cathedral-bobruisk",
+    "attractionName": "Свято-Никольский собор",
+    "stored": {
+      "lat": 53.1419,
+      "lng": 29.2311
+    },
+    "best": {
+      "lat": 53.1387935,
+      "lng": 29.2252616,
+      "display": "Свято-Никольский кафедральный собор, 76, Советская улица, Ленинский район, Бобруйск, Могилёвская область, 213826, Беларусь"
+    },
+    "distance_m": 521,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "bobruisk",
+    "attractionId": "beaver-monument",
+    "attractionName": "Памятник бобру",
+    "stored": {
+      "lat": 53.1452,
+      "lng": 29.229
+    },
+    "best": {
+      "lat": 53.1364926,
+      "lng": 29.2264576,
+      "display": "Памятник Бобру, Московская улица, Ленинский район, Бобруйск, Могилёвская область, 213826, Беларусь"
+    },
+    "distance_m": 983,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "bobruisk",
+    "attractionId": "berezina-embankment",
+    "attractionName": "Набережная Березины",
+    "stored": {
+      "lat": 53.148,
+      "lng": 29.238
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "slonim",
+    "attractionId": "synagogue-slonim",
+    "attractionName": "Большая синагога",
+    "stored": {
+      "lat": 53.0916,
+      "lng": 25.3206
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "slonim",
+    "attractionId": "andrew-church",
+    "attractionName": "Костел Святого Андрея",
+    "stored": {
+      "lat": 53.0914,
+      "lng": 25.3192
+    },
+    "best": {
+      "lat": 53.097469,
+      "lng": 25.3301935,
+      "display": "Костёл святого Апостола Андрея (1775), площадь Сапеги, Слоним, Слонимский район, Гродненская область, 231799, Беларусь"
+    },
+    "distance_m": 997,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "slonim",
+    "attractionId": "oginski-canal",
+    "attractionName": "Канал Огинского",
+    "stored": {
+      "lat": 53.05,
+      "lng": 25.55
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "slonim",
+    "attractionId": "zhyrovichi-monastery",
+    "attractionName": "Жировичский монастырь",
+    "stored": {
+      "lat": 53.0136,
+      "lng": 25.4029
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "slonim",
+    "attractionId": "slonim-center",
+    "attractionName": "Исторический центр",
+    "stored": {
+      "lat": 53.0911,
+      "lng": 25.3205
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "kamenets",
+    "attractionId": "kamenets-tower",
+    "attractionName": "Каменецкая башня",
+    "stored": {
+      "lat": 52.4051,
+      "lng": 23.8126
+    },
+    "best": {
+      "lat": 52.4047614,
+      "lng": 23.8194572,
+      "display": "Каменецкая башня, Набережная улица, Каменец, Каменецкий район, Брестская область, 225051, Беларусь"
+    },
+    "distance_m": 467,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "kamenets",
+    "attractionId": "simeon-church",
+    "attractionName": "Симеоновская церковь",
+    "stored": {
+      "lat": 52.4047,
+      "lng": 23.8174
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "kamenets",
+    "attractionId": "kamenets-museum",
+    "attractionName": "Краеведческий музей",
+    "stored": {
+      "lat": 52.405,
+      "lng": 23.8155
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "kamenets",
+    "attractionId": "pushcha-route",
+    "attractionName": "Маршрут к Беловежской пуще",
+    "stored": {
+      "lat": 52.69,
+      "lng": 23.88
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mozyr",
+    "attractionId": "mozyr-castle-hill",
+    "attractionName": "Замковая гора",
+    "stored": {
+      "lat": 52.0481,
+      "lng": 29.2466
+    },
+    "best": {
+      "lat": 52.0484652,
+      "lng": 29.2681497,
+      "display": "Замковая гора, Советская улица, Мозырь, Мозырский район, Гомельская область, 247780, Беларусь"
+    },
+    "distance_m": 1474,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mozyr",
+    "attractionId": "st-michael-church-mozyr",
+    "attractionName": "Костел Святого Михаила",
+    "stored": {
+      "lat": 52.047,
+      "lng": 29.252
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mozyr",
+    "attractionId": "pripyat-embankment",
+    "attractionName": "Набережная Припяти",
+    "stored": {
+      "lat": 52.0421,
+      "lng": 29.2479
+    },
+    "status": "no_results"
+  },
+  {
+    "cityId": "mozyr",
+    "attractionId": "mozyr-ski-center",
+    "attractionName": "Горнолыжный комплекс",
+    "stored": {
+      "lat": 52.0357,
+      "lng": 29.2358
+    },
+    "best": {
+      "lat": 52.0288002,
+      "lng": 29.257475,
+      "display": "Горнолыжный комплекс «Мозырь», Н4738, Бобры, Мозырь, Мозырский район, Гомельская область, 247771, Беларусь"
+    },
+    "distance_m": 1669,
+    "status": "DIFF"
+  },
+  {
+    "cityId": "mozyr",
+    "attractionId": "mozyr-museum",
+    "attractionName": "Краеведческий музей",
+    "stored": {
+      "lat": 52.0468,
+      "lng": 29.2483
+    },
+    "best": {
+      "lat": 52.04784,
+      "lng": 29.2692093,
+      "display": "Краеведческий музей, 8, улица Гора Коммунаров, Мозырь, Мозырский район, Гомельская область, 247780, Беларусь"
+    },
+    "distance_m": 1435,
+    "status": "DIFF"
+  }
+]

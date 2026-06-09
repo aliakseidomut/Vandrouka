@@ -1,0 +1,36 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: vandrouka-postgres
+    environment:
+      POSTGRES_DB: vandrouka
+      POSTGRES_USER: vandrouka
+      POSTGRES_PASSWORD: vandrouka_pass
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vandrouka -d vandrouka"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: vandrouka-server
+    environment:
+      DATABASE_URL: postgresql://vandrouka:vandrouka_pass@postgres:5432/vandrouka
+      JWT_SECRET: change-me-in-production
+      PORT: 3000
+    ports:
+      - "3000:3000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
